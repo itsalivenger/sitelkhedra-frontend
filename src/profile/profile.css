@@ -1,0 +1,19 @@
+.mappy {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3em;
+    background-color: rgba(0, 0, 0, 0.438);
+    border-radius: 20px;
+    padding: 3em;
+    margin-top: 200px;
+    color: bisque;
+}
+.header{
+    padding: 3em;
+    border-radius: 1em;
+    border: 1px solid greenyellow;
+}
+.profile-links:hover{
+    text-decoration: none;
+    color: greenyellow;
+}
